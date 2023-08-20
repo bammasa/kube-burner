@@ -13,5 +13,5 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
+   en/v1.0/alerting/index
+   en/v1.0/ocp/index
